@@ -5,11 +5,31 @@
   "plugins": [
     {
       "name": "dsh-market",
-      "repo": "https://github.com/dsh-market/dsh-market"
+      "versions": [
+        {
+          "version": "1.67.0",
+          "publishTimestamp": 1750000000,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/dsh-market/dsh-market.git",
+            "commit": "main"
+          }
+        }
+      ]
     },
     {
       "name": "dsh-git-tree",
-      "repo": "https://github.com/dsh-market/dsh-git-tree"
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1750000000,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/dsh-market/dsh-git-tree.git",
+            "commit": "main"
+          }
+        }
+      ]
     }
   ]
 }
