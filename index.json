@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "title": "我的DSH插件库",
+  "description": "自用DSH插件索引",
+  "plugins": [
+    {
+      "name": "dsh-market",
+      "repo": "https://github.com/dsh-market/dsh-market"
+    },
+    {
+      "name": "dsh-git-tree",
+      "repo": "https://github.com/dsh-market/dsh-git-tree"
+    }
+  ]
+}
